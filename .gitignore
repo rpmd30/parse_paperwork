@@ -1,0 +1,6 @@
+venv/*
+auto-8/*
+auto19/*
+test/*
+outputs/*
+.DS_Store
